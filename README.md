@@ -16,7 +16,7 @@ It showcases a modern blog layout featuring blog post cards, category filtering,
 - ✅ Smooth card hover animations
 - ✅ Social media icons with brand-specific hover colors (Font Awesome)
 - ✅ Fully responsive layout (desktop-optimized)
-- 
+  
 ## 🛠️ Tech Stack
 
 - **HTML5** – Semantic structure
